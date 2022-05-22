@@ -1,0 +1,3 @@
+# Ignore the csv files.
+201908-citibike-tripdata.csv
+citibike_updated_trip_duration.csv
